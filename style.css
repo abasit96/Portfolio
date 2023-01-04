@@ -27,3 +27,18 @@ header {
     color: lightskyblue;
     padding: 5px;
 }
+.About-Me {
+    display: flex;
+    flex-direction: row;
+}
+.About-Me h2 {
+    width: 20%;
+    text-align: right;
+    border-right: 3px solid greenyellow;
+    margin: 5px;
+    padding: 5px;
+}
+.About-Me p {
+    margin: 5px;
+    padding: 5px;
+}
