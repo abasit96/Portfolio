@@ -14,3 +14,16 @@ header {
     margin-top: 15px;
     border-bottom: 5px solid blue;
 }
+.subtitle {
+    background-color: darkgreen;
+    height: 150px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.subtitle h2 {
+    background-color: black;
+    width: 250px;
+    color: lightskyblue;
+    padding: 5px;
+}
