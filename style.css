@@ -41,4 +41,65 @@ header {
 .About-Me p {
     margin: 5px;
     padding: 5px;
+    width: 80%;
+}
+.Work {
+    display: flex;
+    flex-direction: row;
+}
+.Work h2 {
+    width: 20%;
+    text-align: right;
+    border-right: 3px solid greenyellow;
+    margin: 5px;
+    padding: 5px;
+}
+.Work section {
+    margin: 5px;
+    padding: 5px;
+    width: 80%;
+}
+.Row1 {
+    border: 2px solid black;
+    height: 150px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    margin: 5px;
+}
+.text {
+    border: 2px solid purple;
+    width: 100px;
+    padding: 0px;
+    margin: 5px;
+}
+.Row2, .Row3 {
+    display: flex;
+    flex-direction: row;
+}
+.Project2, .Project3, .Project4, .Project5 {
+    width: 50%;
+    border: 3px solid black;
+    margin: 5px;
+}
+
+.Contact-Me {
+    display: flex;
+    flex-direction: row;
+}
+.Contact-Me h2 {
+    width: 20%;
+    text-align: right;
+    border-right: 3px solid greenyellow;
+    margin: 5px;
+    padding: 5px;
+}
+.Contact-Me section {
+    margin: 5px;
+    padding: 5px;
+    width: 80%;
+}
+.Info-links {
+    display: flex;
+    justify-content: space-between;
 }
