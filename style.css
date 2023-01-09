@@ -84,8 +84,10 @@ header {
     display: flex;
     flex-direction: row;
 }
-.Project2, .Project3, .Project4, .Project5 {
+.Row2 a, .Row3 a {
     width: 50%;
+}
+.Project2, .Project3, .Project4, .Project5 {
     border: 3px solid black;
     margin: 5px;
 }
@@ -109,4 +111,14 @@ header {
 .Info-links {
     display: flex;
     justify-content: space-between;
+}
+
+
+@media only screen and (max-width: 400px) {
+    .Info-links {
+        flex-direction: column;
+    }
+
+
+    
 }
