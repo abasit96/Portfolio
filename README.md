@@ -31,4 +31,4 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ![Screenshot](portfolio.png)
 
 ###### Deployment Page
-https://abasit96.github.io/Challenge-1/
+https://abasit96.github.io/Challenge-2/
