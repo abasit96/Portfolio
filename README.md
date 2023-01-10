@@ -1,1 +1,34 @@
 # Challenge-2
+Build a portfolio website that will showcase my work to potential employers.
+
+## Project Description
+A website that entails personal information, work, and background. This website will evolve as more and more projects are completed so that potential employers may view and critique the website as well as the portfolio of work. 
+
+## Criteria
+The criteria upon which the source code was refactored is as follows:
+
+User Story
+AS AN employer
+I WANT to view a potential employee's deployed portfolio of work samples
+SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
+
+## Acceptance Criteria
+GIVEN I need to sample a potential employee's previous work
+WHEN I load their portfolio
+THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
+WHEN I click one of the links in the navigation
+THEN the UI scrolls to the corresponding section
+WHEN I click on the link to the section about their work
+THEN the UI scrolls to a section with titled images of the developer's applications
+WHEN I am presented with the developer's first application
+THEN that application's image should be larger in size than the others
+WHEN I click on the images of the applications
+THEN I am taken to that deployed application
+WHEN I resize the page or view the site on various screens and devices
+THEN I am presented with a responsive layout that adapts to my viewport
+
+##### Screenshot
+![Screenshot](portfolio.png)
+
+###### Deployment Page
+https://abasit96.github.io/Challenge-1/
